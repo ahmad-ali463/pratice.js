@@ -34,4 +34,5 @@ var Name1 = 4;
 var Name2 = 6;
 console.log(Name+Name1+Name2);
 
-var number = 5;
+var number = 6;
+console.log(number)
